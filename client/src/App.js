@@ -11,7 +11,7 @@ class App extends Component {
 
   render () {
     return (
-      <div className='App'>
+      <div className="u-body u-overlap u-overlap-transparent">
         <Router>
           <Header/>
           <Route
